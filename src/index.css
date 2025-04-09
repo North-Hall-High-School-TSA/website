@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --color-north-hall-green: rgb(45,80,53);
+  --color-north-hall-green-light: rgb(45,90,53);
+}
