@@ -13,7 +13,7 @@ function App() {
     </div>
     <div className="w-full h-screen flex flex-col">
       <About />
-</div>
+    </div>
     </>
   );
 }

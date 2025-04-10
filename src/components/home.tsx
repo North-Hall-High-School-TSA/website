@@ -1,5 +1,4 @@
-import Logo2 from "../assets/Group 3-2.png"
-import About from "./about";
+import Logo from "../assets/Group 3-2.png"
 
 export default function Home() {
     return (
@@ -19,7 +18,7 @@ export default function Home() {
                 <div className="flex-shrink-0">
                     <img
                         className="w-100"
-                        src={Logo2}
+                        src={Logo}
                         alt="NHHS Logo"
                     />
                 </div>
