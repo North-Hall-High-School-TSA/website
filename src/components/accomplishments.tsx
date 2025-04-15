@@ -16,7 +16,7 @@ export default function Accomplishments() {
             confrence: "Technology Fair",
             event: "Manufacturing Prototype",
             award: "1st Place – State",
-            description: "Constructed a high-efficiency truss model using balsa wood.",
+            description: "Constructed a candy storage and distribution prototype.",
             url: GeorgiaNationalFair
         },
     ];
