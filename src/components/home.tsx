@@ -22,9 +22,7 @@ export default function Home() {
                         alt="NHHS Logo"
                     />
                 </div>
-                
-            </div>
-
+            </div>     
         </div>
     );
 }
