@@ -28,8 +28,8 @@ export default function Accomplishments() {
                     TSA Competition Accomplishments
                 </h1>
                 <p className="text-gray-700 mb-12 max-w-3xl">
-                    The Engineering Club has participated in the Technology Student Association (TSA)
-                    competitions over the years, consistently earning recognition at state and national levels.
+                    We have participated in many Technology Student Association (TSA)
+                    competitions over the years, consistently earning recognition at the regional and state levels.
                 </p>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
                     {accomplishments.map((item, idx) => (
